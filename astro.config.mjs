@@ -22,5 +22,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 
-  ite: 'https://lauracastrillonmp.github.io',
+  site: 'https://lauracastrillonmp.github.io',
 });
