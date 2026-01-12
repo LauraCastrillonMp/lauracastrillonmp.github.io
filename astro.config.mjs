@@ -22,6 +22,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
 
-  ite: 'https://LauraCastrillonMp.github.io',
-  base: 'portfolio',
+  ite: 'https://lauracastrillonmp.github.io',
 });
